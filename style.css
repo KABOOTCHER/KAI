@@ -440,6 +440,53 @@ a:hover{
   }
 
   @media (max-width:450px) {
+
+
+
+    html{
+        font-size: 17px;
+    }
+
+    .firstLine{
+        width: inherit;
+    }
+
+
+
+    .inputBlock{
+        flex-direction: column;
+    }
+
+    .NavBlock{
+        display: flex;
+        gap: 1rem;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-content: center;
+        align-items: center;
+
+        font-weight: 200;
+    }
+
+    .AboutBlock{
+        flex-wrap: wrap;
+    }
+
+    .MyPhoto{
+        width: 40vh;
+    }
+
+    .funnyBlock{
+        height: 80vw;
+    }
+
+    .header{
+        padding: 5% 10%;
+    }
+
+
+
     .locationText{
         display: none;
     }
