@@ -271,10 +271,13 @@ a:hover{
     gap: 1rem;
 
     font-family: 'ISOCPEUR';
+    
 }
 
 .sliderButton{
     cursor: pointer;
+
+    user-select: none;
 }
 
 .block{
