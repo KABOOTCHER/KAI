@@ -297,7 +297,7 @@ a:hover{
 }
 
 .lastLine{
-    bottom: 35%;
+    bottom: 25%;
     width: 100%;
 }
 
@@ -373,9 +373,7 @@ a:hover{
 #SendButton:active{
     background-color: #E76F2B;
 }
-#SendButton:focus{
-    background-color: #E76F2B;
-}
+
 
 .createdBy{
     font-size: .8rem !important;
