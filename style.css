@@ -38,7 +38,7 @@ html{
     background-color: #FFE8DB;
     overflow-x: hidden;
     font-family:'Inknut Antiqua', 'Times New Roman';
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 
 }
 
@@ -276,8 +276,8 @@ a:hover{
 
 .sliderButton{
     cursor: pointer;
+    z-index: 10;
 
-    user-select: none;
 }
 
 .block{
